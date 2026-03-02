@@ -1,0 +1,1 @@
+Firmware for the Elchi PID controller based on the Arduino Uno. PCB Revision 2.
